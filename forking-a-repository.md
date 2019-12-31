@@ -3,8 +3,12 @@
 1. fork [this repository](https://github.com/HackYourFutureBelgium/my-first-fork/) - (here's [a helpful link](https://help.github.com/en/articles/fork-a-repo))
 1. [Turn on GitHub Pages](https://stackoverflow.com/questions/41253371/how-do-i-turn-a-repository-into-a-github-page) from the "settings" tab of your fork
 1. Paste your fork's URL into the description of your repository
-1. Check out your fork's "network" tab like in the last step of [Pull Requesting](./Pull-Requesting)
-1. Check out [our main repository's](https://github.com/HackYourFutureBelgium/my-first-fork/settings) "network" tab like in the last step of [Pull Requesting](./Pull-Requesting)
+1. Visualize your forks and merges as a graph like in learngitbranching
+    1. Go to the RO's repository
+    1. Click on "Insights" in the menu below the repository name
+    1. Click on "Network" in the panel on the left
+    1. Voila!  The forks and merges will be drawn like a graph of bubbles and arrows
+
 
 ---
 ---
