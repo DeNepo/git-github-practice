@@ -1,6 +1,12 @@
 # Git & GitHub Practice
 
-Some step-by-step instructions for practicing Git & GitHub workflows in small groups
+Some step-by-step instructions for practicing Git & GitHub workflows in small groups.
+
+Here are some more exercises like the ones in this repo:
+* [hcs Git Bootcamp](https://github.com/hcs/bootcamp-git/wiki)
+* [a workflow with rebasing & squashing](https://gist.github.com/colinsurprenant/9b081958b50cfecc210c)
+* [A Group Workflow](https://medium.com/@swinkler/git-workflow-explained-a-step-by-step-guide-83c1c9247f03)
+* [Coding Train: Workflow](https://www.youtube.com/watch?v=_sLgRBrZh6o)
 
 ___
 ___
