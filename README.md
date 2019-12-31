@@ -1,8 +1,6 @@
-# Git & GitHub Lesson Plans
+# Git & GitHub Practice
 
-[This repo's wiki](https://github.com/HackYourFutureBelgium/git-github-practice/wiki) contains detailed lesson plans for learning Git & GitHub workflows.
-
-(The repo is for storing diagrams and other assets)
+Some step-by-step instructions for practicing Git & GitHub workflows in small groups
 
 ___
 ___
