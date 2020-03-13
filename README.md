@@ -1,5 +1,7 @@
 # Git & GitHub Practice
 
+> !! [Awesome Git Katas](https://github.com/praqma-training/git-katas) !!
+
 Some step-by-step instructions for practicing Git & GitHub workflows in small groups.
 
 Here are some more exercises like the ones in this repo:
