@@ -38,7 +38,7 @@ Repeat this mini project until it is easy:
         2. Follow the link to the project repo
         3. Create a fork of the RO's repo
         4. In the fork, create a new file and answer their question
-        5. Send them a pull request, mention your issue in the body (ie. #3)
+        5. Send them a pull request and [ask for a review](https://stackoverflow.com/questions/32262295/adding-a-reviewer-to-a-github-pull-request)
     3. The RO will accept or reject each answer:
         1. Check pull requests
         2. Review the answers
@@ -62,7 +62,3 @@ Repeat this mini project until it is easy:
 ## Some More Links
 * [Managing your Work withIssues](https://help.github.com/articles/managing-your-work-with-issues/)
 * [Labeling Issues & PR's](https://help.github.com/articles/labeling-issues-and-pull-requests/)
-
----
----
-### <a href="https://hackyourfuture.be" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/63941625-4c7c3d00-ca6c-11e9-9a76-8d5e3632fe70.jpg" width="100" height="100" alt="Hack Your Future: Belgium"></a>
